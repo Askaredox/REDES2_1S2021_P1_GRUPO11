@@ -1,0 +1,20 @@
+Feb 02 22:53:51.931 HYPERVISOR: Release 0.2.21-amd64/Linux (tag 2019071212)
+Feb 02 22:53:51.931 HYPERVISOR: Started on IP = localhost, TCP port = 39021.
+Feb 02 22:53:51.938 HYPERVISOR: exec_cmd: hypervisor version 
+Feb 02 22:53:51.938 HYPERVISOR: exec_cmd: hypervisor working_dir /home/askar/Documents/2021S1/Redes2/Practica1/Implementacion/project-files/dynamips 
+Feb 02 22:53:51.938 GENERAL: working_dir=/home/askar/Documents/2021S1/Redes2/Practica1/Implementacion/project-files/dynamips
+Feb 02 22:53:51.938 HYPERVISOR: exec_cmd: hypervisor working_dir /home/askar/Documents/2021S1/Redes2/Practica1/Implementacion/project-files/dynamips/73628706-003f-4add-84fe-f68e33845f3c 
+Feb 02 22:53:51.938 GENERAL: working_dir=/home/askar/Documents/2021S1/Redes2/Practica1/Implementacion/project-files/dynamips/73628706-003f-4add-84fe-f68e33845f3c
+Feb 02 22:53:51.938 HYPERVISOR: exec_cmd: vm create R1 1 c3725 
+Feb 02 22:53:51.938 VM: VM R1 created.
+Feb 02 22:53:51.938 HYPERVISOR: exec_cmd: vm set_con_tcp_port R1 5000 
+Feb 02 22:53:51.939 HYPERVISOR: exec_cmd: c3725 get_mac_addr R1 
+Feb 02 22:53:51.939 HYPERVISOR: exec_cmd: vm set_ios R1 /home/askar/GNS3/images/IOS/c3725-adventerprisek9-mz124-15.image 
+Feb 02 22:53:51.939 HYPERVISOR: exec_cmd: vm set_ram R1 256 
+Feb 02 22:53:51.939 HYPERVISOR: exec_cmd: vm set_nvram R1 256 
+Feb 02 22:53:51.939 HYPERVISOR: exec_cmd: vm set_disk0 R1 1 
+Feb 02 22:53:51.939 HYPERVISOR: exec_cmd: vm get_status R1 
+Feb 02 22:53:51.940 HYPERVISOR: exec_cmd: vm slot_add_binding R1 1 0 NM-16ESW 
+Feb 02 22:53:51.940 HYPERVISOR: exec_cmd: vm get_status R1 
+Feb 02 22:53:51.940 HYPERVISOR: exec_cmd: vm slot_add_binding R1 0 16 WIC-1T 
+Feb 02 22:53:51.962 HYPERVISOR: exec_cmd: vm set_ios R1 /home/askar/GNS3/images/IOS/c3725-adventerprisek9-mz124-15.image 
