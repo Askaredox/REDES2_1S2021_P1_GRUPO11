@@ -1,0 +1,21 @@
+Feb 04 22:52:58.688 HYPERVISOR: Release 0.2.21-amd64/Linux (tag 2019071212)
+Feb 04 22:52:58.688 HYPERVISOR: Started on IP = localhost, TCP port = 35167.
+Feb 04 22:52:58.698 HYPERVISOR: exec_cmd: hypervisor version 
+Feb 04 22:52:58.698 HYPERVISOR: exec_cmd: hypervisor working_dir /home/askar/Documents/2021S1/Redes2/Practica1/Implementacion/project-files/dynamips 
+Feb 04 22:52:58.698 GENERAL: working_dir=/home/askar/Documents/2021S1/Redes2/Practica1/Implementacion/project-files/dynamips
+Feb 04 22:52:58.698 HYPERVISOR: exec_cmd: ethsw create Switch2 
+Feb 04 22:53:26.255 HYPERVISOR: exec_cmd: nio create_udp udp-34c04749-c970-45be-b804-2e6df9a10dba 10009 127.0.0.1 10008 
+Feb 04 22:53:26.255 HYPERVISOR: exec_cmd: ethsw add_nio Switch2 udp-34c04749-c970-45be-b804-2e6df9a10dba 
+Feb 04 22:53:26.265 HYPERVISOR: exec_cmd: ethsw set_access_port Switch2 udp-34c04749-c970-45be-b804-2e6df9a10dba 1 
+Feb 04 22:53:29.046 HYPERVISOR: exec_cmd: nio create_udp udp-be68c272-645f-4ea3-a359-69374b1a0504 10011 127.0.0.1 10010 
+Feb 04 22:53:29.046 HYPERVISOR: exec_cmd: ethsw add_nio Switch2 udp-be68c272-645f-4ea3-a359-69374b1a0504 
+Feb 04 22:53:29.058 HYPERVISOR: exec_cmd: ethsw set_access_port Switch2 udp-be68c272-645f-4ea3-a359-69374b1a0504 1 
+Feb 04 22:53:33.018 HYPERVISOR: exec_cmd: nio create_udp udp-f4faf33e-1624-4107-93c1-45c51b204a8e 10012 127.0.0.1 10013 
+Feb 04 22:53:33.018 HYPERVISOR: exec_cmd: ethsw add_nio Switch2 udp-f4faf33e-1624-4107-93c1-45c51b204a8e 
+Feb 04 22:53:33.018 HYPERVISOR: exec_cmd: ethsw set_access_port Switch2 udp-f4faf33e-1624-4107-93c1-45c51b204a8e 1 
+Feb 04 22:57:31.440 HYPERVISOR: exec_cmd: ethsw set_access_port Switch2 udp-34c04749-c970-45be-b804-2e6df9a10dba 1 
+Feb 04 22:57:31.440 HYPERVISOR: exec_cmd: ethsw set_access_port Switch2 udp-be68c272-645f-4ea3-a359-69374b1a0504 1 
+Feb 04 22:57:31.441 HYPERVISOR: exec_cmd: ethsw set_access_port Switch2 udp-f4faf33e-1624-4107-93c1-45c51b204a8e 1 
+Feb 04 22:57:34.646 HYPERVISOR: exec_cmd: ethsw set_access_port Switch2 udp-34c04749-c970-45be-b804-2e6df9a10dba 1 
+Feb 04 22:57:34.647 HYPERVISOR: exec_cmd: ethsw set_access_port Switch2 udp-be68c272-645f-4ea3-a359-69374b1a0504 1 
+Feb 04 22:57:34.648 HYPERVISOR: exec_cmd: ethsw set_access_port Switch2 udp-f4faf33e-1624-4107-93c1-45c51b204a8e 1 
