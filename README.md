@@ -99,7 +99,7 @@ mejor utilizar cada uno?
 
 * Andrés Carvajal - 201612272
 
-![redes](/home/askar/Documents/2021S1/Redes2/Practica1/assets/screen_redes.png)
+![redes](assets/screen_redes.png)
 
 ### Componentes importantes:
 
