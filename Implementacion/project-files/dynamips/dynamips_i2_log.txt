@@ -1,0 +1,38 @@
+Feb 08 04:30:16.793 HYPERVISOR: Release 0.2.21-amd64/Linux (tag 2019071212)
+Feb 08 04:30:16.793 HYPERVISOR: Started on IP = localhost, TCP port = 35021.
+Feb 08 04:30:16.803 HYPERVISOR: exec_cmd: hypervisor version 
+Feb 08 04:30:16.803 HYPERVISOR: exec_cmd: hypervisor working_dir /home/askar/Documents/2021S1/Redes2/Practica1/Implementacion/project-files/dynamips 
+Feb 08 04:30:16.803 GENERAL: working_dir=/home/askar/Documents/2021S1/Redes2/Practica1/Implementacion/project-files/dynamips
+Feb 08 04:30:16.803 HYPERVISOR: exec_cmd: hypervisor working_dir /home/askar/Documents/2021S1/Redes2/Practica1/Implementacion/project-files/dynamips/c4b2acfe-6030-4c70-be38-bff65f619a54 
+Feb 08 04:30:16.803 GENERAL: working_dir=/home/askar/Documents/2021S1/Redes2/Practica1/Implementacion/project-files/dynamips/c4b2acfe-6030-4c70-be38-bff65f619a54
+Feb 08 04:30:16.804 HYPERVISOR: exec_cmd: vm create R2 2 c3725 
+Feb 08 04:30:16.810 VM: VM R2 created.
+Feb 08 04:30:16.810 HYPERVISOR: exec_cmd: vm set_con_tcp_port R2 5011 
+Feb 08 04:30:16.810 HYPERVISOR: exec_cmd: c3725 get_mac_addr R2 
+Feb 08 04:30:16.810 HYPERVISOR: exec_cmd: vm set_disk0 R2 1 
+Feb 08 04:30:16.811 HYPERVISOR: exec_cmd: vm set_ios R2 /home/askar/GNS3/images/IOS/c3725-adventerprisek9-mz124-15.image 
+Feb 08 04:30:16.811 HYPERVISOR: exec_cmd: c3725 set_mac_addr R2 c202.0d8b.0000 
+Feb 08 04:30:16.811 HYPERVISOR: exec_cmd: vm set_nvram R2 256 
+Feb 08 04:30:16.811 HYPERVISOR: exec_cmd: vm set_ram R2 256 
+Feb 08 04:30:16.812 HYPERVISOR: exec_cmd: vm get_status R2 
+Feb 08 04:30:16.812 HYPERVISOR: exec_cmd: vm slot_add_binding R2 1 0 NM-16ESW 
+Feb 08 04:30:16.812 HYPERVISOR: exec_cmd: vm get_status R2 
+Feb 08 04:30:16.812 HYPERVISOR: exec_cmd: vm slot_add_binding R2 0 16 WIC-1T 
+Feb 08 04:30:17.072 HYPERVISOR: exec_cmd: nio create_udp udp-031e49f1-c368-4f20-89e1-38338be63fd3 10006 127.0.0.1 10007 
+Feb 08 04:30:17.285 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R2 1 0 udp-031e49f1-c368-4f20-89e1-38338be63fd3 
+Feb 08 04:30:17.287 HYPERVISOR: exec_cmd: vm get_status R2 
+Feb 08 04:30:18.086 HYPERVISOR: exec_cmd: nio create_udp udp-906dd671-8d1f-44f4-bba5-9abfd525fef6 10026 127.0.0.1 10027 
+Feb 08 04:30:18.087 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R2 1 1 udp-906dd671-8d1f-44f4-bba5-9abfd525fef6 
+Feb 08 04:30:18.087 HYPERVISOR: exec_cmd: vm get_status R2 
+Feb 08 04:30:45.969 HYPERVISOR: exec_cmd: vm set_ios R2 /home/askar/GNS3/images/IOS/c3725-adventerprisek9-mz124-15.image 
+Feb 08 04:39:00.867 HYPERVISOR: exec_cmd: vm get_status R2 
+Feb 08 04:39:00.867 HYPERVISOR: exec_cmd: vm slot_remove_nio_binding R2 1 1 
+Feb 08 04:39:00.869 HYPERVISOR: exec_cmd: nio delete udp-906dd671-8d1f-44f4-bba5-9abfd525fef6 
+Feb 08 04:39:20.778 HYPERVISOR: exec_cmd: vm set_ios R2 /home/askar/GNS3/images/IOS/c3725-adventerprisek9-mz124-15.image 
+Feb 08 04:40:03.997 HYPERVISOR: exec_cmd: vm set_ios R2 /home/askar/GNS3/images/IOS/c3725-adventerprisek9-mz124-15.image 
+Feb 08 04:40:05.253 HYPERVISOR: exec_cmd: vm set_ios R2 /home/askar/GNS3/images/IOS/c3725-adventerprisek9-mz124-15.image 
+Feb 08 04:40:12.663 HYPERVISOR: exec_cmd: vm set_ios R2 /home/askar/GNS3/images/IOS/c3725-adventerprisek9-mz124-15.image 
+Feb 08 04:40:55.266 HYPERVISOR: exec_cmd: vm set_ios R2 /home/askar/GNS3/images/IOS/c3725-adventerprisek9-mz124-15.image 
+Feb 08 04:50:55.351 HYPERVISOR: exec_cmd: nio create_udp udp-f09b1b86-0648-4e00-9209-cfa13fe46d2c 10026 127.0.0.1 10027 
+Feb 08 04:50:55.352 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R2 1 1 udp-f09b1b86-0648-4e00-9209-cfa13fe46d2c 
+Feb 08 04:50:55.352 HYPERVISOR: exec_cmd: vm get_status R2 
