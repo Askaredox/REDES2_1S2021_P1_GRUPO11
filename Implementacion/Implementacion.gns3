@@ -22,8 +22,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"285\" height=\"283\"><rect width=\"285\" height=\"283\" fill=\"#ffacac\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
-                "x": 140,
-                "y": 69,
+                "x": 138,
+                "y": 70,
                 "z": -1
             },
             {
@@ -580,8 +580,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": -3,
-                "y": 266,
+                "x": -136,
+                "y": 259,
                 "z": 1
             },
             {
@@ -609,8 +609,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": -131,
-                "y": 268,
+                "x": -4,
+                "y": 254,
                 "z": 1
             },
             {
@@ -638,8 +638,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": 295,
-                "y": 259,
+                "x": 174,
+                "y": 257,
                 "z": 1
             },
             {
@@ -667,8 +667,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": 171,
-                "y": 269,
+                "x": 309,
+                "y": 257,
                 "z": 1
             },
             {
