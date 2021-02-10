@@ -95,14 +95,18 @@ mejor utilizar cada uno?
 
 - Andrea Vicente - 201404104
 
-![i1](i1.png)
+![i1](https://github.com/Askaredox/REDES2_1S2021_P1_GRUPO11/blob/main/assets/andrea1.png)
+![i2](https://github.com/Askaredox/REDES2_1S2021_P1_GRUPO11/blob/main/assets/andrea2.jpeg)
 
 - Andrés Carvajal - 201612272
 
-![redes](assets/screen_redes.png)
+![redes](https://github.com/Askaredox/REDES2_1S2021_P1_GRUPO11/blob/main/assets/andy1.png)
+![redes2](https://github.com/Askaredox/REDES2_1S2021_P1_GRUPO11/blob/main/assets/andy2.png)
 
 -Samuel Rosales - 201403904
 ![rgns3](https://github.com/Askaredox/REDES2_1S2021_P1_GRUPO11/blob/main/assets/ArcoLinux_2021-02-09_21-18-55.png)
+![rgns3Eve](https://github.com/Askaredox/REDES2_1S2021_P1_GRUPO11/blob/main/assets/ArcoLinux_2021-02-09_21-34-00.png)
+
 
 
 ### Componentes importantes:
