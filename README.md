@@ -102,7 +102,7 @@ mejor utilizar cada uno?
 ![redes](assets/screen_redes.png)
 
 -Samuel Rosales - 201403904
-![rgns3](rgns3.png)
+![rgns3](https://github.com/Askaredox/REDES2_1S2021_P1_GRUPO11/blob/main/assets/ArcoLinux_2021-02-09_21-18-55.png)
 
 
 ### Componentes importantes:
