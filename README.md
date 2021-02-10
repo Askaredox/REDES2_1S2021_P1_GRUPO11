@@ -97,9 +97,13 @@ mejor utilizar cada uno?
 
 ![i1](i1.png)
 
-* Andrés Carvajal - 201612272
+- Andrés Carvajal - 201612272
 
 ![redes](assets/screen_redes.png)
+
+-Samuel Rosales - 201403904
+![rgns3](rgns3.png)
+
 
 ### Componentes importantes:
 
